@@ -1,0 +1,1 @@
+Set-Variable -Name "computerList" -Scope global -Description "All processes" -PassThru
